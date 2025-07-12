@@ -3,3 +3,6 @@ LEGACY
 LICENSE
 README
 TODO
+patches/
+*.rej
+*.orig
