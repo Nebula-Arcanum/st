@@ -6,3 +6,6 @@ TODO
 patches/
 *.rej
 *.orig
+*.o
+config.h
+st
